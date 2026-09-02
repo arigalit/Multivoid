@@ -99,6 +99,7 @@ time) · [COOP_MIRROR_IDENTITY_WINDOW_RACE.md](COOP_MIRROR_IDENTITY_WINDOW_RACE.
 [RELAY_ARC.md](RELAY_ARC.md) (what we adopt from studying Relay, Moddy's VOTV networking
 platform — the queue, the gates, and what was declined) ·
 [OVERLAY_CAPTURE_COEXIST.md](OVERLAY_CAPTURE_COEXIST.md) (coexisting with RTSS and OBS) ·
+[QF_ARC.md](QF_ARC.md) (revising the `/qf` critic ritual on its own measured output) ·
 the local-only docs-arc note (this documentation audit)
 
 **Left this repo**
