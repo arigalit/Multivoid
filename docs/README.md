@@ -96,6 +96,8 @@ time) · [COOP_MIRROR_IDENTITY_WINDOW_RACE.md](COOP_MIRROR_IDENTITY_WINDOW_RACE.
 **Live arcs** — work in flight, each tracking its own work packages
 
 [UE4SS_ARC.md](UE4SS_ARC.md) (becoming a UE4SS mod) ·
+[RELAY_ARC.md](RELAY_ARC.md) (what we adopt from studying Relay, Moddy's VOTV networking
+platform — the queue, the gates, and what was declined) ·
 [OVERLAY_CAPTURE_COEXIST.md](OVERLAY_CAPTURE_COEXIST.md) (coexisting with RTSS and OBS) ·
 the local-only docs-arc note (this documentation audit)
 
